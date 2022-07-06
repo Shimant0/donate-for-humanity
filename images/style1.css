@@ -1,0 +1,13 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+
+    color: aqua;
+}
+
+.box {
+    background-image: url(donation6.jpg);
+}
